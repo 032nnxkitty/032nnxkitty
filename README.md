@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[My resume](https://032nnxkitty.github.io/ArseniyZolotarevResume.pdf)
+
 <!--
 **032nnxkitty/032nnxkitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
